@@ -163,7 +163,7 @@
 - Location: New Delhi, Delhi, India
 - Slack id: @Aamir vohra
 - Intro: TODO
-- GitHub: TODO
+- GitHub: https://github.com/aamir010
 - Contact: [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/aamir-vohra-55765833/)
 
 Current link: https://github.com/USDevOps/mywechat-slack-group/blob/master/Members.md
